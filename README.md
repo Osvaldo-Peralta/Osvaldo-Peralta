@@ -1,7 +1,6 @@
 # About me
 - 👋 Hi, I’m @Osvaldo-Peralta. I'm a developer with experience in `web` and `software` development
 - 👀 I'm from ***Mexico***🇲🇽, my native language is Spanish.
-- 🌱 I’m currently learning **React Native, Vue, C# and Flutter** for before the end of this year 2024.
 - 📫 How to reach me: Can you send me DM's on [Linkedin](https://www.linkedin.com/in/osvaldo-peralta512/) 
 
 <!---
