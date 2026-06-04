@@ -1,5 +1,9 @@
 # About me
-- 👋 Hi, I’m @Osvaldo-Peralta. I'm a developer with experience in `web` and `software` development
+Backend Software Engineer
+
+Python | FastAPI | Node.js | PostgreSQL | Docker
+
+Focused on building scalable APIs, automation tools, and backend systems.
 - 👀 I'm from ***Mexico***🇲🇽, my native language is Spanish.
 - 📫 How to reach me: Can you send me DM's on [Linkedin](https://www.linkedin.com/in/osvaldo-peralta512/) 
 
