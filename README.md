@@ -1,18 +1,42 @@
 # About me
-Backend Software Engineer
+# Hi, I'm Osvaldo Peralta 👋
 
-Python | FastAPI | Node.js | PostgreSQL | Docker
+Backend Developer with 5+ years of experience building scalable applications and APIs.
 
-Focused on building scalable APIs, automation tools, and backend systems.
-- 👀 I'm from ***Mexico***🇲🇽, my native language is Spanish.
-- 📫 How to reach me: Can you send me DM's on [Linkedin](https://www.linkedin.com/in/osvaldo-peralta512/) 
+## Main Stack
 
-<!---
-Osvaldo-Peralta/Osvaldo-Peralta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--- New projects are coming soon...
-## Latest projects
-- [Web site to check the weather (repository) ](https://github.com/Osvaldo-Peralta/WeatheriaApp)
-- [Bot to consult the weather (repository)](https://github.com/Osvaldo-Peralta/BotWeatheriaApp)
---->
+- Python
+- Node.js
+- FastAPI
+- Express.js
+- PostgreSQL
+- Docker
+- Pytest
+- GitHub Actions
+
+## What I Do
+
+- Design and build REST APIs
+- Backend architecture
+- Database design and optimization
+- Automated testing
+- CI/CD pipelines
+- Performance optimization
+
+## Featured Projects
+
+🚧 Inventory Management API (In Progress)
+
+Backend application built with:
+
+- FastAPI
+- PostgreSQL
+- Docker
+- JWT Authentication
+- Role Based Access Control
+- Pytest
+- GitHub Actions
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/osvaldoisraelperalta/)
